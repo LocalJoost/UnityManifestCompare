@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityManifestCompare", "UnityManifestCompare\UnityManifestCompare.csproj", "{6DABFAA0-3863-465A-9857-58F9E283EEE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DABFAA0-3863-465A-9857-58F9E283EEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DABFAA0-3863-465A-9857-58F9E283EEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DABFAA0-3863-465A-9857-58F9E283EEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DABFAA0-3863-465A-9857-58F9E283EEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0F8F48-1E29-4DAC-924D-06234AD40505}
+	EndGlobalSection
+EndGlobal
